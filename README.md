@@ -1,15 +1,15 @@
----
-title: README
-created: '2020-07-04T14:56:47.620Z'
-modified: '2020-07-04T15:05:46.998Z'
----
-
 # Learning Materials for Developers
 
 ![Tree](assets/tree.jpg)
 *photo by* [*Fabrice Villard*](https://unsplash.com/@fabulu75)
 
 This repository contains learning resources of various programming topics that I've either consumed or planning to consume in the future. I created the repository as a reference for myself and for anyone else who's looking for free and good quality learning content on the internet.
+
+## Resources
+
+Here is the list of topics that are available. All of these links point to sub-folders in this repository. Currently, there is only one item in this list. Read the *Variety* section (below) to learn why this is the case.
+
+- [React](https://github.com/creatorX64/learning-materials/blob/master/resources/React.md)
 
 ## Structure
 

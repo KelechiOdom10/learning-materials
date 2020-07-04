@@ -1,10 +1,3 @@
----
-tags: [Learning Materials]
-title: React
-created: '2020-07-04T13:20:31.353Z'
-modified: '2020-07-04T14:52:42.283Z'
----
-
 # React
 
 ## Lessons
