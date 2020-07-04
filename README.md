@@ -1,9 +1,3 @@
----
-title: README
-created: '2020-07-04T14:56:47.620Z'
-modified: '2020-07-04T15:05:46.998Z'
----
-
 # Learning Materials for Developers
 
 ![Tree](assets/tree.jpg)
