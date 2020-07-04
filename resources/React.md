@@ -82,7 +82,7 @@
 
 - [**Complete Weather app Using React** *Daily Tuition*](https://www.youtube.com/watch?v=IxuqmfO6p28) [52:45]
 
-- [**Build a Chat App** * freeCodeCamp.org*](https://www.youtube.com/watch?v=jFNHerJqvFw) [01:34:48]
+- [**Build a Chat App** *freeCodeCamp.org*](https://www.youtube.com/watch?v=jFNHerJqvFw) [01:34:48]
 
 - [**React & Material UI Project Using The PixaBay API** *Traversy Media*](https://www.youtube.com/watch?v=dzOrUmK4Qyw) [48:17]
 
@@ -98,9 +98,9 @@
 
 - [**Learn To Build A Live React App From Scratch** *Eduonix Learning Solutions*](https://www.youtube.com/watch?v=n6aYWX8bLog) [04:28:30]
 
-- [**Build a Recipe App With React** * Dev Ed*](https://www.youtube.com/watch?v=U9T6YkEDkMo) [48:09]
+- [**Build a Recipe App With React** *Dev Ed*](https://www.youtube.com/watch?v=U9T6YkEDkMo) [48:09]
 
-- [***React Project - Beach Resort* *Coding Addict*](https://www.youtube.com/watch?v=ScDWrogElmo) [05:43:50]
+- [**React Project - Beach Resort** *Coding Addict*](https://www.youtube.com/watch?v=ScDWrogElmo) [05:43:50]
 
 - [**React & Node Tutorial - Full ECommerce** *Coding with Basir*](https://www.youtube.com/watch?v=Fy9SdZLBTOo) [05:06:23]
 
