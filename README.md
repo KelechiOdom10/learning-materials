@@ -1,8 +1,19 @@
+---
+title: README
+created: '2020-07-04T14:56:47.620Z'
+modified: '2020-07-04T15:05:46.998Z'
+---
+
 # Learning Materials for Developers
+
+![Tree](assets/tree.jpg)
+*photo by* [*Fabrice Villard*](https://unsplash.com/@fabulu75)
 
 This repository contains learning resources of various programming topics that I've either consumed or planning to consume in the future. I created the repository as a reference for myself and for anyone else who's looking for free and good quality learning content on the internet.
 
 ## Structure
+
+Learning resource files can be found in the [resources folder](https://github.com/creatorX64/learning-materials/tree/master/resources).
 
 Each learning resource file is split into two categories: **Lessons** and **Walkthroughs**.
 
